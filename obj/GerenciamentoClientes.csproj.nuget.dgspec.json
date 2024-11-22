@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ulbra 24(2)\\Laboratório de Programação\\GerenciamentoClientes\\GerenciamentoClientes.csproj": {}
+    "C:\\Ulbra 24(2)\\Laboratório de Programação\\GerenciamentoClientes\\TDE-07-11-2024-LP\\GerenciamentoClientes.csproj": {}
   },
   "projects": {
-    "C:\\Ulbra 24(2)\\Laboratório de Programação\\GerenciamentoClientes\\GerenciamentoClientes.csproj": {
+    "C:\\Ulbra 24(2)\\Laboratório de Programação\\GerenciamentoClientes\\TDE-07-11-2024-LP\\GerenciamentoClientes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ulbra 24(2)\\Laboratório de Programação\\GerenciamentoClientes\\GerenciamentoClientes.csproj",
+        "projectUniqueName": "C:\\Ulbra 24(2)\\Laboratório de Programação\\GerenciamentoClientes\\TDE-07-11-2024-LP\\GerenciamentoClientes.csproj",
         "projectName": "GerenciamentoClientes",
-        "projectPath": "C:\\Ulbra 24(2)\\Laboratório de Programação\\GerenciamentoClientes\\GerenciamentoClientes.csproj",
+        "projectPath": "C:\\Ulbra 24(2)\\Laboratório de Programação\\GerenciamentoClientes\\TDE-07-11-2024-LP\\GerenciamentoClientes.csproj",
         "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-        "outputPath": "C:\\Ulbra 24(2)\\Laboratório de Programação\\GerenciamentoClientes\\obj\\",
+        "outputPath": "C:\\Ulbra 24(2)\\Laboratório de Programação\\GerenciamentoClientes\\TDE-07-11-2024-LP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -46,6 +46,20 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
